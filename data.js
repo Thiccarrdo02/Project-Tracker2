@@ -8,13 +8,10 @@ const projectData = [
         "id": "p1",
         "company": "MPP",
         "name": "Travel CGI Video",
-        "stage": "Feedback",
-        "assigned": [
-            "Shrey",
-            "Nimesh"
-        ],
+        "stage": "Work in Progress",
+        "assigned": ["Shrey", "Nimesh"],
         "eta": "2024-07-01",
-        "progress": 90,
+        "progress": 75,
         "status": "active",
         "priority": "High"
     },
@@ -23,12 +20,9 @@ const projectData = [
         "company": "MPP",
         "name": "Monsoon 3d Video",
         "stage": "Storyboard",
-        "assigned": [
-            "Nimish",
-            "Raza"
-        ],
+        "assigned": ["Nimish", "Raza"],
         "eta": "2024-06-27",
-        "progress": 10,
+        "progress": 40,
         "status": "active",
         "priority": "Medium"
     },
@@ -37,25 +31,18 @@ const projectData = [
         "company": "MPP",
         "name": "Pokochan Birthday",
         "stage": "Work in Progress",
-        "assigned": [
-            "Raza",
-            "Vignesh",
-            "Sumit"
-        ],
+        "assigned": ["Raza", "Vignesh", "Sumit"],
         "eta": "2024-07-02",
-        "progress": 70,
+        "progress": 80,
         "status": "active",
-        "priority": "Medium"
+        "priority": "High"
     },
     {
         "id": "p4",
         "company": "Dabur",
         "name": "Gulbari CGI video",
         "stage": "Feedback",
-        "assigned": [
-            "Nimish",
-            "Raza"
-        ],
+        "assigned": ["Nimish", "Raza"],
         "eta": "2024-06-27",
         "progress": 90,
         "status": "active",
@@ -66,9 +53,7 @@ const projectData = [
         "company": "Vital",
         "name": "Sandy Beach - Static",
         "stage": "Closed",
-        "assigned": [
-            "Vignesh"
-        ],
+        "assigned": ["Vignesh"],
         "eta": "2024-06-26",
         "progress": 100,
         "status": "closed",
@@ -79,11 +64,9 @@ const projectData = [
         "company": "Vital",
         "name": "Football Hydration - Static",
         "stage": "Work in Progress",
-        "assigned": [
-            "Sumit"
-        ],
+        "assigned": ["Sumit"],
         "eta": "2024-06-30",
-        "progress": 45,
+        "progress": 60,
         "status": "active",
         "priority": "Medium"
     },
@@ -92,25 +75,20 @@ const projectData = [
         "company": "Vital",
         "name": "New Launch - Static",
         "stage": "Work in Progress",
-        "assigned": [
-            "Sumit"
-        ],
+        "assigned": ["Sumit"],
         "eta": "2024-06-30",
-        "progress": 40,
+        "progress": 50,
         "status": "active",
-        "priority": "Low"
+        "priority": "Medium"
     },
     {
         "id": "p8",
         "company": "Vital",
-        "name": "Crush D - Recycle - Static",
-        "stage": "Concept",
-        "assigned": [
-            "Sumit",
-            "Nimish"
-        ],
+        "name": "Crush & Recycle - Static",
+        "stage": "Feedback",
+        "assigned": ["Sumit", "Nimish"],
         "eta": "2024-07-02",
-        "progress": 20,
+        "progress": 90,
         "status": "active",
         "priority": "Medium"
     },
@@ -119,11 +97,9 @@ const projectData = [
         "company": "Vital",
         "name": "Citrus Reveal - CGI Video",
         "stage": "Concept",
-        "assigned": [
-            "Raza"
-        ],
+        "assigned": ["Raza"],
         "eta": "2024-07-04",
-        "progress": 15,
+        "progress": 10,
         "status": "active",
         "priority": "Medium"
     },
@@ -132,11 +108,9 @@ const projectData = [
         "company": "Vital",
         "name": "Vital riding the waves - CGI Video",
         "stage": "Concept",
-        "assigned": [
-            "Nimish"
-        ],
+        "assigned": ["Nimish"],
         "eta": "2024-07-03",
-        "progress": 10,
+        "progress": 15,
         "status": "active",
         "priority": "Medium"
     },
@@ -145,92 +119,75 @@ const projectData = [
         "company": "Bikano",
         "name": "Bikano around the world creative",
         "stage": "Work in Progress",
-        "assigned": [
-            "Sumit"
-        ],
+        "assigned": ["Sumit"],
         "eta": "2024-06-27",
-        "progress": 55,
+        "progress": 70,
         "status": "active",
-        "priority": "Medium"
+        "priority": "High"
     },
     {
         "id": "p12",
         "company": "Vibhor",
         "name": "3d model development",
         "stage": "Work in Progress",
-        "assigned": [
-            "Shrey",
-            "Nimish"
-        ],
-        "eta": "2024-06-02",
-        "progress": 30,
+        "assigned": ["Shrey", "Nimish"],
+        "eta": "2024-07-02",
+        "progress": 65,
         "status": "active",
-        "priority": "Low"
+        "priority": "Medium"
     },
     {
         "id": "p13",
         "company": "Ancestar",
         "name": "4 3d Videos Skin",
-        "stage": "Feedback",
-        "assigned": [
-            "Shrey",
-            "Nimish"
-        ],
+        "stage": "Closed",
+        "assigned": ["Shrey", "Nimish"],
         "eta": "2024-06-27",
-        "progress": 95,
-        "status": "active",
-        "priority": "High"
+        "progress": 100,
+        "status": "closed",
+        "priority": "Low"
     },
     {
         "id": "p14",
         "company": "Safco",
         "name": "Safco CGI videos Building #1",
         "stage": "Concept",
-        "assigned": [
-            "Nimish"
-        ],
+        "assigned": ["Nimish"],
         "eta": "2024-06-25",
-        "progress": 25,
+        "progress": 20,
         "status": "active",
-        "priority": "Medium"
+        "priority": "Low"
     },
     {
         "id": "p15",
         "company": "Safco",
         "name": "Safco CGI videos Building #2",
         "stage": "Concept",
-        "assigned": [
-            "Nimish"
-        ],
+        "assigned": ["Nimish"],
         "eta": "2024-06-25",
-        "progress": 25,
+        "progress": 20,
         "status": "active",
-        "priority": "Medium"
+        "priority": "Low"
     },
     {
         "id": "p16",
         "company": "Munafa",
         "name": "AI Video Generation",
         "stage": "Work in Progress",
-        "assigned": [
-            "Krithik",
-            "Kuleen"
-        ],
-        "eta": "2024-06-12",
-        "progress": 80,
+        "assigned": ["Krithik", "Kuleen"],
+        "eta": "2024-07-12",
+        "progress": 50,
         "status": "active",
-        "priority": "Low"
+        "priority": "High"
     },
     {
         "id": "p17",
         "company": "manfor",
         "name": "Myra intro video",
         "stage": "Work in Progress",
-        "assigned": [
-            "Ally"
-        ],
+        "assigned": ["Ally"],
         "eta": "2024-06-27",
-        "progress": 75,
+        "progress": 85,
         "status": "active",
         "priority": "Medium"
     }
