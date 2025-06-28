@@ -10,7 +10,7 @@ const projectData = [
         "name": "Travel CGI Video",
         "stage": "Work in Progress",
         "assigned": ["Shrey", "Nimesh"],
-        "eta": "2024-07-01",
+        "eta": "2025-07-01",
         "progress": 75,
         "status": "active",
         "priority": "High"
@@ -21,7 +21,7 @@ const projectData = [
         "name": "Monsoon 3d Video",
         "stage": "Storyboard",
         "assigned": ["Nimish", "Raza"],
-        "eta": "2024-06-27",
+        "eta": "2025-06-27",
         "progress": 40,
         "status": "active",
         "priority": "Medium"
@@ -32,7 +32,7 @@ const projectData = [
         "name": "Pokochan Birthday",
         "stage": "Work in Progress",
         "assigned": ["Raza", "Vignesh", "Sumit"],
-        "eta": "2024-07-02",
+        "eta": "2025-07-02",
         "progress": 80,
         "status": "active",
         "priority": "High"
@@ -43,7 +43,7 @@ const projectData = [
         "name": "Gulbari CGI video",
         "stage": "Feedback",
         "assigned": ["Nimish", "Raza"],
-        "eta": "2024-06-27",
+        "eta": "2025-06-27",
         "progress": 90,
         "status": "active",
         "priority": "High"
@@ -54,7 +54,7 @@ const projectData = [
         "name": "Sandy Beach - Static",
         "stage": "Closed",
         "assigned": ["Vignesh"],
-        "eta": "2024-06-26",
+        "eta": "2025-06-26",
         "progress": 100,
         "status": "closed",
         "priority": "Medium"
@@ -65,7 +65,7 @@ const projectData = [
         "name": "Football Hydration - Static",
         "stage": "Work in Progress",
         "assigned": ["Sumit"],
-        "eta": "2024-06-30",
+        "eta": "2025-06-30",
         "progress": 60,
         "status": "active",
         "priority": "Medium"
@@ -76,7 +76,7 @@ const projectData = [
         "name": "New Launch - Static",
         "stage": "Work in Progress",
         "assigned": ["Sumit"],
-        "eta": "2024-06-30",
+        "eta": "2025-06-30",
         "progress": 50,
         "status": "active",
         "priority": "Medium"
@@ -87,7 +87,7 @@ const projectData = [
         "name": "Crush & Recycle - Static",
         "stage": "Feedback",
         "assigned": ["Sumit", "Nimish"],
-        "eta": "2024-07-02",
+        "eta": "2025-07-02",
         "progress": 90,
         "status": "active",
         "priority": "Medium"
@@ -98,7 +98,7 @@ const projectData = [
         "name": "Citrus Reveal - CGI Video",
         "stage": "Concept",
         "assigned": ["Raza"],
-        "eta": "2024-07-04",
+        "eta": "2025-07-04",
         "progress": 10,
         "status": "active",
         "priority": "Medium"
@@ -109,7 +109,7 @@ const projectData = [
         "name": "Vital riding the waves - CGI Video",
         "stage": "Concept",
         "assigned": ["Nimish"],
-        "eta": "2024-07-03",
+        "eta": "2025-07-03",
         "progress": 15,
         "status": "active",
         "priority": "Medium"
@@ -120,7 +120,7 @@ const projectData = [
         "name": "Bikano around the world creative",
         "stage": "Work in Progress",
         "assigned": ["Sumit"],
-        "eta": "2024-06-27",
+        "eta": "2025-06-27",
         "progress": 70,
         "status": "active",
         "priority": "High"
@@ -131,7 +131,7 @@ const projectData = [
         "name": "3d model development",
         "stage": "Work in Progress",
         "assigned": ["Shrey", "Nimish"],
-        "eta": "2024-07-02",
+        "eta": "2025-07-02",
         "progress": 65,
         "status": "active",
         "priority": "Medium"
@@ -142,7 +142,7 @@ const projectData = [
         "name": "4 3d Videos Skin",
         "stage": "Closed",
         "assigned": ["Shrey", "Nimish"],
-        "eta": "2024-06-27",
+        "eta": "2025-06-27",
         "progress": 100,
         "status": "closed",
         "priority": "Low"
@@ -153,7 +153,7 @@ const projectData = [
         "name": "Safco CGI videos Building #1",
         "stage": "Concept",
         "assigned": ["Nimish"],
-        "eta": "2024-06-25",
+        "eta": "2025-06-25",
         "progress": 20,
         "status": "active",
         "priority": "Low"
@@ -164,7 +164,7 @@ const projectData = [
         "name": "Safco CGI videos Building #2",
         "stage": "Concept",
         "assigned": ["Nimish"],
-        "eta": "2024-06-25",
+        "eta": "2025-06-25",
         "progress": 20,
         "status": "active",
         "priority": "Low"
@@ -175,7 +175,7 @@ const projectData = [
         "name": "AI Video Generation",
         "stage": "Work in Progress",
         "assigned": ["Krithik", "Kuleen"],
-        "eta": "2024-07-12",
+        "eta": "2025-07-12",
         "progress": 50,
         "status": "active",
         "priority": "High"
@@ -186,7 +186,7 @@ const projectData = [
         "name": "Myra intro video",
         "stage": "Work in Progress",
         "assigned": ["Ally"],
-        "eta": "2024-06-27",
+        "eta": "2025-06-27",
         "progress": 85,
         "status": "active",
         "priority": "Medium"
