@@ -50,7 +50,7 @@ const projectData = [
     },
     {
         "id": "p17",
-        "company": "manfor",
+        "company": "Manfor",
         "name": "Myra intro video",
         "stage": "Work in Progress",
         "assigned": [
@@ -100,7 +100,7 @@ const projectData = [
         "stage": "Work in Progress",
         "assigned": [
             "Shrey",
-            "Nimesh"
+            "Nimish"
         ],
         "eta": "2025-07-01",
         "progress": 75,
